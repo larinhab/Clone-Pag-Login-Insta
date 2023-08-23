@@ -12,11 +12,11 @@ Página clone do Log in do Instagram <br/> </p>
 
 
 <p align="center">
-  <img alt="finished project" src="/src/assets/finalizado1.png" width="100%">
+  <img alt="finished project" src="./src/assets/finalizado1.png" width="100%">
 </p>
 
 <p align="center">
-  <img alt="Responsividade" src="/src/assets/resposividade1.png" width="100%">
+  <img alt="Responsividade" src="./src/assets/resposividade1.png" width="100%">
 </p>
 
 
